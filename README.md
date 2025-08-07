@@ -4,8 +4,8 @@ This project demonstrates how to use Terraform to provision a local Docker conta
 
 ## Prerequisites
 
-- Docker Desktop
-- Terraform
+- `Docker Desktop`
+- `Terraform`
 
 ## How to Use
 
@@ -28,6 +28,6 @@ This project demonstrates how to use Terraform to provision a local Docker conta
 - `outputs.tf` – Outputs container ID.
 - `providers.tf` – Specifies used provider.
 
-### Author
+## Author
 S Nagaveena
 
